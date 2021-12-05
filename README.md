@@ -1,4 +1,3 @@
 # PlanckGBM
 In this repo, I will share my master's codes
-
-[LGBM_pipeline.pdf](https://github.com/halehhajizadeh/PlanckGBM/files/7655518/LGBM_pipeline.pdf)
+![alt text](https://github.com/halehhajizadeh/PlanckGBM/blob/main/LGBM_pipeline.jpg)
