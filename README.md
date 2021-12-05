@@ -1,7 +1,7 @@
 # PlanckGBM
 In this repo, I will share my master's thesis codes with title of:
 
-**Planck Limits on Cosmic String Tension Using Image Processing and Machine Learning.**
+**"Planck Limits on Cosmic String Tension Using Image Processing and Machine Learning."**
 
 
 In the following image you can see pipeline of my works during this project:
