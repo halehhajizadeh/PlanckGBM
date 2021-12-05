@@ -21,3 +21,5 @@ In the following image you can see pipeline of my works during this project:
 You can find the google colab file in the with the following link:
 
 https://github.com/halehhajizadeh/PlanckGBM/blob/main/CosmicString.ipynb
+
+**Note: The shared code is just part of my codes for this project because ram and storage of the google colab and google drive are limited. Therefore, We runed our code in a cluster.**
