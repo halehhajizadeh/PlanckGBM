@@ -1,5 +1,5 @@
 # PlanckGBM
-In this repo, I will share my master's thesis codes with title of:
+In this repo, I will share a part of my master's thesis codes with the title of:
 
 **"Planck Limits on Cosmic String Tension Using Image Processing and Machine Learning."**
 
